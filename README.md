@@ -25,7 +25,10 @@ This repository turns a **Sonoff Basic** whose PCB is silk-screened **`Sonoff RF
 1. **A proper smart switch**: setup portal on first boot, admin login, physical button, HTTP API, load state restored after a power cut.
 2. **A game console**: a Doom-style FPS that **runs on the Sonoff itself** (engine, map, imps, doors, weapons) and is played from the browser, with the original menu, the marine's face, music and sound effects taken from your own `doom1.wad`.
 
-And no, it is not a video stream from a PC hidden somewhere: the rendering is really done by the ESP8285 inside the relay.
+> [!NOTE]
+> **And no, it is not a video stream from a PC hidden somewhere:** the rendering is really done by the **ESP8285 inside the relay**.
+
+
 
 ## Screenshots
 
