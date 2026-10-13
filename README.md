@@ -6,14 +6,17 @@
 > It costs less than a pizza and a beer, it switches any mains load on and off, and now it also runs **Doom**.
 > Yes, *that* Doom. On the chip that normally takes care of your bathroom light.
 
-<tr>
-    <td><img src="docs/sonoff1.jpeg" alt="PCB Side 1"></td>
-    <td><img src="docs/sonoff2.jpeg" alt="PCB Side 2"></td>
+<table border="0">
+  <tr align="center">
+    <td><img src="docs/sonoff1.jpeg" alt="PCB Side 1" height="280"></td>
+    <td><img src="docs/sonoff2.jpeg" alt="PCB Side 2" height="280"></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><em>Sonoff RF R2 POWER V1.0 front side</em></td>
     <td><em>Sonoff RF R2 POWER V1.0 back side</em></td>
   </tr>
+</table>
+
 
 ---
 
