@@ -519,7 +519,7 @@ sonoff-doom/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── docs/                   ← your GIFs / screenshots (optional)
+├── docs/                   ← GIFs / screenshots
 └── sonoff_doom/
     ├── sonoff_doom.ino     ← firmware: engine, network, relay, settings
     ├── index_html.h        ← web page (source)
