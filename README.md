@@ -1,4 +1,4 @@
-# Running DOOM on Sonoff Basic R2
+# Running DOOM on Sonoff Basic R2 (ITEAD)
 
 ### *The few-euro Wi-Fi relay that switches your lamp on… while you slaughter imps.*
 
