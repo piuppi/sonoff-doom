@@ -1,0 +1,16 @@
+# Data extracted from or derived from Doom's WAD: never publish these
+doom1.wad
+*.wad
+doom_assets.h
+
+# Firmware binaries and build output
+*.bin
+*.elf
+*.map
+build/
+
+# Editor / OS leftovers
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
