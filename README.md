@@ -32,7 +32,7 @@ This repository turns a **Sonoff Basic** whose PCB is silk-screened **`Sonoff RF
 
 ## Screenshots
 
-> Screenshots and clips show the shareware version of Doom &copy; id Software, running on a Sonoff. This project is not affiliated with or endorsed by id Software.
+> Screenshots and video clips show the shareware version of Doom © id Software, running on a Sonoff. This project is for demonstration purposes only and is not affiliated with or endorsed by id Software.
 
 <table border="0">
   <tr>
