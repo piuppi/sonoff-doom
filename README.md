@@ -631,7 +631,7 @@ Pull requests are welcome, as long as they stay within the roughly 33 KB of free
 ## Credits and legal notes
 
 - Project by **Piuppi**, written with **Claude Opus 5.5**.
-- **Doom** is a trademark of **id Software**. This repository **contains no Doom code or data**: graphics and sound are extracted from **your own** `doom1.wad`, on **your own** PC, for **personal use**. Do not redistribute `doom_assets.h`.
+- **Doom** is a registered trademark of **id Software**. This repository **contains no Doom code or data**. All graphics and audio assets must be extracted from **your own** legally owned `doom1.wad` on your PC for personal use. Do not redistribute the generated `doom_assets.h` file.
 - **Sonoff** and **eWeLink** are trademarks of **ITEAD / CoolKit**. This project is **not affiliated with or endorsed by** ITEAD, Sonoff, id Software or anyone else.
 - Libraries used: the **ESP8266 Arduino** core, **WebSockets** by Markus Sattler (Links2004).
 - The original code in this repository is released under the **MIT** licence (see `LICENSE`). The licence covers the code only, not Doom's data.
