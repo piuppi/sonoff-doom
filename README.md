@@ -381,6 +381,8 @@ The Sonoff must be in upload mode (see below). With the backup you will be able 
 
 ### 7. Upload the firmware
 
+> Warranty Notice: Flashing a custom firmware replaces the factory software. This process voids the official ITEAD warranty immediately. Proceed at your own risk! ⚠️
+
 1. **Hold the Sonoff button** while you connect the adapter to the PC (which gives the board its 3.3 V), then release it.
 2. In the Arduino IDE press **Upload** (the → arrow). It compiles and uploads in one go; it takes about a minute.
 3. If it stays on "Connecting…", the Sonoff is not in upload mode: repeat step 1 and check the TX/RX crossing.
