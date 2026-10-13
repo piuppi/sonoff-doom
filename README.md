@@ -443,7 +443,7 @@ Use the arrow keys (or **W/S**) and **Enter**, or the mouse.
 | **SWITCH: ON/OFF** | Load on or off (turns green when on) |
 | **Physical button, short press** | Toggles the load |
 | **Physical button, 10 seconds** | Factory reset (the LED blinks fast from 3 seconds) |
-| **LED** | Lit while the relay contact is closed (so it shows that the load is on, and blinks during a TOGGLE pulse); flashes at every shot fired; blinks slowly in setup mode |
+| **LED** | Lit while the relay contact is closed (so it shows that the load is on, and blinks during a TOGGLE pulse); **flashes at every shot fired**; blinks slowly in setup mode |
 
 > When you shoot, the **relay does not click**: only the LED flashes. Otherwise every shot would switch your lamp off.
 
