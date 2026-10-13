@@ -7,8 +7,8 @@
 > Yes, *that* Doom. On the chip that normally takes care of your bathroom light.
 
 <tr>
-    <td><img src="docs/sonoff1.jpg" alt="PCB Side 1"></td>
-    <td><img src="docs/sonoff2.jpg" alt="PCB Side 2"></td>
+    <td><img src="docs/sonoff1.jpeg" alt="PCB Side 1"></td>
+    <td><img src="docs/sonoff2.jpeg" alt="PCB Side 2"></td>
   </tr>
   <tr>
     <td><em>Sonoff RF R2 POWER V1.0 front side</em></td>
@@ -31,7 +31,7 @@ And no, it is not a video stream from a PC hidden somewhere: the rendering is re
 <table border="0">
   <tr>
     <td><img src="docs/01-menu.gif" alt="Menu"></td>
-    <td><img src="docs/02-new-game.gif" alt="Newgame"></td>
+    <td><img src="docs/02-newgame.gif" alt="Newgame"></td>
   </tr>
   <tr>
     <td><em>The classic Doom menu, drawn by the browser over a wall rendered by the Sonoff.</em></td>
