@@ -47,14 +47,14 @@ And no, it is not a video stream from a PC hidden somewhere: the rendering is re
   </tr>
   <tr>
     <td><img src="docs/05-face.gif" alt="Face"></td>
-    <td><img src="docs/06-cheat.gif" alt="Cheat"></td>
+    <td><img src="docs/07-iddqd.gif" alt="Cheat"></td>
   </tr>
   <tr>
     <td><em>The marine's face reacts to every hit. Red palettes are the original ones.</em></td>
     <td><em>Cheats are... politely declined.</em></td>
   </tr>
   <tr>
-    <td><img src="docs/07-switch.gif" alt="Switch"></td>
+    <td><img src="docs/06-switch.gif" alt="Switch"></td>
     <td><img src="docs/08-setup.gif" alt="Setup"></td>
   </tr>
   <tr>
