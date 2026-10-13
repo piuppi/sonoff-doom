@@ -30,32 +30,32 @@ And no, it is not a video stream from a PC hidden somewhere: the rendering is re
 
 <table border="0">
   <tr>
-    <td><img src="docs/01-menu.gif" alt="Menu"></td>
-    <td><img src="docs/02-newgame.gif" alt="Newgame"></td>
+    <td><img src="docs/1-menu.gif" alt="Menu"></td>
+    <td><img src="docs/2-newgame.gif" alt="Newgame"></td>
   </tr>
   <tr>
     <td><em>The classic Doom menu, drawn by the browser over a wall rendered by the Sonoff.</em></td>
     <td><em>Pick a difficulty: it really changes damage, imp speed and respawn time.</em></td>
   </tr>
   <tr>
-    <td><img src="docs/03-doors.gif" alt="Doors"></td>
-    <td><img src="docs/04-shotgun.gif" alt="Shotgun"></td>
+    <td><img src="docs/3-doors.gif" alt="Doors"></td>
+    <td><img src="docs/4-shotgun.gif" alt="Shotgun"></td>
   </tr>
   <tr>
     <td><em>Rising doors; imps sleep until they see or hear you, then open doors themselves.</em></td>
     <td><em>Pistol and shotgun (7 pellets with spread), switched with the mouse wheel.</em></td>
   </tr>
   <tr>
-    <td><img src="docs/05-face.gif" alt="Face"></td>
-    <td><img src="docs/07-iddqd.gif" alt="Cheat"></td>
+    <td><img src="docs/5-face.gif" alt="Face"></td>
+    <td><img src="docs/7-iddqd.gif" alt="Cheat"></td>
   </tr>
   <tr>
     <td><em>The marine's face reacts to every hit. Red palettes are the original ones.</em></td>
     <td><em>Cheats are... politely declined.</em></td>
   </tr>
   <tr>
-    <td><img src="docs/06-switch.gif" alt="Switch"></td>
-    <td><img src="docs/08-setup.gif" alt="Setup"></td>
+    <td><img src="docs/6-switch.gif" alt="Switch"></td>
+    <td><img src="docs/8-setup.gif" alt="Setup"></td>
   </tr>
   <tr>
     <td><em>It is still a smart switch: SWITCH toggles the load, BUTTON gives a 30 ms pulse.</em></td>
