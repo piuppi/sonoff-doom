@@ -30,9 +30,9 @@ This repository turns a **Sonoff Basic** whose PCB is silk-screened **`Sonoff RF
 
 ## Demo video
 
-[![Demo video](https://img.youtube.com/vi/GAGIUb_qqWQ/hqdefault.jpg)](https://www.youtube.com/watch?v=GAGIUb_qqWQ)
+https://github.com/user-attachments/assets/eac965b7-35a1-4318-9809-34e4ec86dca7
 
-*Click the image to watch the demo on YouTube.*
+▶️ Prefer YouTube? [Watch the demo there](https://www.youtube.com/watch?v=GAGIUb_qqWQ)
 
 
 ## Screenshots
