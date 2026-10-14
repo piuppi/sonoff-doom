@@ -12,8 +12,8 @@
     <td><img src="docs/sonoff2.jpeg" alt="PCB Side 2" height="280"></td>
   </tr>
   <tr align="center">
-    <td><em>Sonoff RF R2 POWER V1.0 front side</em></td>
-    <td><em>Sonoff RF R2 POWER V1.0 back side</em></td>
+    <td><em>front</em></td>
+    <td><em>back</em></td>
   </tr>
 </table>
 
@@ -28,6 +28,11 @@ This repository turns a **Sonoff Basic** whose PCB is silk-screened **`Sonoff RF
 > [!NOTE]
 > **And no, it is not a video stream from a PC hidden somewhere:** the rendering is really done by the **ESP8285 inside the SONOFF Relay**.
 
+## Demo video
+
+[![Demo video](https://img.youtube.com/vi/GAGIUb_qqWQ/hqdefault.jpg)](https://www.youtube.com/watch?v=GAGIUb_qqWQ)
+
+*Click the image to watch the demo on YouTube.*
 
 
 ## Screenshots
